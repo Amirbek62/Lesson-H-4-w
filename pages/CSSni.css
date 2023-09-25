@@ -1,0 +1,59 @@
+.box1 {
+  width: 1430px;
+  height: 50px;
+  background-color: #282a35;
+  text-align: center;
+  text-decoration: none;
+  justify-content: center;
+  padding-top: 20px;
+}
+.partt {
+  text-decoration: none;
+  padding-right: 20px;
+  color: white;
+  text-align: center;
+  font-size: 26px;
+}
+
+.linkr {
+  padding: 12px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 20px;
+}
+.partk {
+  text-decoration: none;
+  padding-right: 20px;
+  color: white;
+}
+.partk1 {
+  text-decoration: none;
+  padding-right: 20px;
+  color: white;
+}
+.partk2 {
+  text-decoration: none;
+  padding-right: 20px;
+  color: white;
+}
+.partk3 {
+  text-decoration: none;
+  padding-right: 20px;
+  color: white;
+}
+.link1r {
+  padding: 12px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 20px;
+}
+.par23 {
+  padding-left: 20px;
+  background-color: #d9eee1;
+}
+.link2r {
+  padding: 15px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 20px;
+}

@@ -1,0 +1,75 @@
+.box {
+  width: 1430px;
+  height: 50px;
+  background-color: #282a35;
+  text-align: center;
+  text-decoration: none;
+  justify-content: center;
+  padding-top: 20px;
+}
+.par1 {
+  color: white;
+  font-size: 26px;
+}
+.partt {
+  padding-right: 20px;
+  text-decoration: none;
+  color: white;
+}
+.partkl {
+  padding-right: 20px;
+  text-decoration: none;
+  color: white;
+}
+.partkla {
+  padding-right: 20px;
+  text-decoration: none;
+  color: white;
+}
+.partklas {
+  padding-right: 20px;
+  text-decoration: none;
+  color: white;
+}
+.link {
+  padding: 10px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 20px;
+}
+.partk {
+  padding-right: 20px;
+  text-decoration: none;
+  color: white;
+}
+.link1 {
+  padding: 10px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 20px;
+}
+.parcontent {
+  padding-left: 20px;
+  margin: 12px 0;
+}
+.par2 {
+  background-color: #d9eee1;
+}
+.link2 {
+  padding: 15px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 20px;
+}
+.link3 {
+  padding: 15px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+}
+.link4 {
+  padding: 15px;
+  background-color: #04aa6d;
+  color: white;
+  font-size: 20px;
+}
